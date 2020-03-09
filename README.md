@@ -11,7 +11,7 @@ Extent Reports
 
 ### Steps to clone execute the tests
 ```
-git clone https://github.com/naveenanimation20/PageObjectModel
-cd PageObjectModel
+git clone https://github.com/mariaSaif/kayak-Reactjs-with-selenium.git
+cd kayak-Reactjs-with-selenium
 mvn clean test
 ```
