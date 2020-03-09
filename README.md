@@ -1,4 +1,4 @@
-# Reactjs applicatiosn automation using Selenium with Java,Cucumber
+# Reactjs application automation using Selenium with Java,Cucumber
 This is a sample project to demonstrate how we can automate Reactjs applications with selenium + java + cucumber Layer
 Dependency
 Java
