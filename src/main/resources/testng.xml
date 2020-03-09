@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="kayak Application Test Automation Test Suite">
+
+	<listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+	<test name="kayak App Test Cases">
+		<classes>
+			<class name="com.kayak.qa.testcases.FlightsPageTest"></class>
+	        <class name="com.kayak.qa.testcases.HotelsPageTest"></class>
+		</classes>
+	</test>
+</suite>

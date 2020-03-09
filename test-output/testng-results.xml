@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="kayak Application Test Automation Test Suite" duration-ms="133408" started-at="2020-03-05T10:39:21Z" finished-at="2020-03-05T10:41:34Z">
+    <groups>
+    </groups>
+    <test name="kayak App Test Cases" duration-ms="133408" started-at="2020-03-05T10:39:21Z" finished-at="2020-03-05T10:41:34Z">
+      <class name="com.kayak.qa.testcases.HotelsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.kayak.qa.testcases.HotelsPageTest@1794d431]" name="setUp" is-config="true" duration-ms="9767" started-at="2020-03-05T15:39:45Z" finished-at="2020-03-05T15:39:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHostelsPageLabel1()[pri:1, instance:com.kayak.qa.testcases.HotelsPageTest@1794d431]" name="verifyHostelsPageLabel1" duration-ms="2534" started-at="2020-03-05T15:39:55Z" finished-at="2020-03-05T15:39:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHostelsPageLabel1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kayak.qa.testcases.HotelsPageTest@1794d431]" name="tearDown" is-config="true" duration-ms="739" started-at="2020-03-05T15:39:58Z" finished-at="2020-03-05T15:39:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.kayak.qa.testcases.HotelsPageTest@1794d431]" name="setUp" is-config="true" duration-ms="9747" started-at="2020-03-05T15:40:13Z" finished-at="2020-03-05T15:40:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyOriginfieldPrasent()[pri:2, instance:com.kayak.qa.testcases.HotelsPageTest@1794d431]" name="verifyOriginfieldPrasent" duration-ms="5523" started-at="2020-03-05T15:40:23Z" finished-at="2020-03-05T15:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOriginfieldPrasent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kayak.qa.testcases.HotelsPageTest@1794d431]" name="tearDown" is-config="true" duration-ms="744" started-at="2020-03-05T15:40:28Z" finished-at="2020-03-05T15:40:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.kayak.qa.testcases.HotelsPageTest@1794d431]" name="setUp" is-config="true" duration-ms="9845" started-at="2020-03-05T15:40:29Z" finished-at="2020-03-05T15:40:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyStartDatefieldPrasent()[pri:3, instance:com.kayak.qa.testcases.HotelsPageTest@1794d431]" name="verifyStartDatefieldPrasent" duration-ms="3637" started-at="2020-03-05T15:40:39Z" finished-at="2020-03-05T15:40:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStartDatefieldPrasent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kayak.qa.testcases.HotelsPageTest@1794d431]" name="tearDown" is-config="true" duration-ms="887" started-at="2020-03-05T15:40:43Z" finished-at="2020-03-05T15:40:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.kayak.qa.testcases.HotelsPageTest@1794d431]" name="setUp" is-config="true" duration-ms="9587" started-at="2020-03-05T15:40:44Z" finished-at="2020-03-05T15:40:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyEndDatefieldPrasent()[pri:4, instance:com.kayak.qa.testcases.HotelsPageTest@1794d431]" name="verifyEndDatefieldPrasent" duration-ms="3876" started-at="2020-03-05T15:40:53Z" finished-at="2020-03-05T15:40:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEndDatefieldPrasent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kayak.qa.testcases.HotelsPageTest@1794d431]" name="tearDown" is-config="true" duration-ms="780" started-at="2020-03-05T15:40:57Z" finished-at="2020-03-05T15:40:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.kayak.qa.testcases.HotelsPageTest@1794d431]" name="setUp" is-config="true" duration-ms="9741" started-at="2020-03-05T15:40:58Z" finished-at="2020-03-05T15:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchHotelsDetailsTest()[pri:5, instance:com.kayak.qa.testcases.HotelsPageTest@1794d431]" name="searchHotelsDetailsTest" duration-ms="25688" started-at="2020-03-05T15:41:08Z" finished-at="2020-03-05T15:41:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchHotelsDetailsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kayak.qa.testcases.HotelsPageTest@1794d431]" name="tearDown" is-config="true" duration-ms="720" started-at="2020-03-05T15:41:33Z" finished-at="2020-03-05T15:41:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.kayak.qa.testcases.HotelsPageTest -->
+      <class name="com.kayak.qa.testcases.FlightsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.kayak.qa.testcases.FlightsPageTest@39c0f4a]" name="setUp" is-config="true" duration-ms="21236" started-at="2020-03-05T15:39:21Z" finished-at="2020-03-05T15:39:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="kayakLogoImageTest()[pri:1, instance:com.kayak.qa.testcases.FlightsPageTest@39c0f4a]" name="kayakLogoImageTest" duration-ms="2623" started-at="2020-03-05T15:39:42Z" finished-at="2020-03-05T15:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kayakLogoImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kayak.qa.testcases.FlightsPageTest@39c0f4a]" name="tearDown" is-config="true" duration-ms="903" started-at="2020-03-05T15:39:44Z" finished-at="2020-03-05T15:39:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.kayak.qa.testcases.FlightsPageTest@39c0f4a]" name="setUp" is-config="true" duration-ms="9640" started-at="2020-03-05T15:39:58Z" finished-at="2020-03-05T15:40:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="navigateToHotelsLinkTest()[pri:2, instance:com.kayak.qa.testcases.FlightsPageTest@39c0f4a]" name="navigateToHotelsLinkTest" duration-ms="4417" started-at="2020-03-05T15:40:08Z" finished-at="2020-03-05T15:40:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHotelsLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.kayak.qa.testcases.FlightsPageTest@39c0f4a]" name="tearDown" is-config="true" duration-ms="741" started-at="2020-03-05T15:40:12Z" finished-at="2020-03-05T15:40:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.kayak.qa.testcases.FlightsPageTest -->
+    </test> <!-- kayak App Test Cases -->
+  </suite> <!-- kayak Application Test Automation Test Suite -->
+</testng-results>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [kayak Application Test Automation Test Suite]">
+  <listeners>
+    <listener class-name="com.qa.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test name="kayak App Test Cases(failed)">
+    <classes>
+      <class name="com.kayak.qa.testcases.FlightsPageTest">
+        <methods>
+          <include name="navigateToHotelsLinkTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="kayakLogoImageTest"/>
+        </methods>
+      </class> <!-- com.kayak.qa.testcases.FlightsPageTest -->
+      <class name="com.kayak.qa.testcases.HotelsPageTest">
+        <methods>
+          <include name="verifyOriginfieldPrasent"/>
+          <include name="verifyStartDatefieldPrasent"/>
+          <include name="verifyHostelsPageLabel1"/>
+          <include name="setUp"/>
+          <include name="verifyEndDatefieldPrasent"/>
+          <include name="searchHotelsDetailsTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.kayak.qa.testcases.HotelsPageTest -->
+    </classes>
+  </test> <!-- kayak App Test Cases(failed) -->
+</suite> <!-- Failed suite [kayak Application Test Automation Test Suite] -->
