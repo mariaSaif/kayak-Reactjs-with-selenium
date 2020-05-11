@@ -1,0 +1,15 @@
+version: 2
+jobs:
+  build:
+    docker:
+      #- image: circleci/python:latest
+      - image: circleci/openjdk:8u131-jdk
+  #Latest image of python environment
+    steps:
+      - checkout # Checks out the source code from rehmanuet's repo default directory
+      - run: java -version  # Sample Command for Demonstration
+      - run: ls
+    #  - run: javac test.py 
+      - run: javac test.java
+      - run: java test
+      - run: echo "Build Successfully"

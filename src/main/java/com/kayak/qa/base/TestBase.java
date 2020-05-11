@@ -1,23 +1,19 @@
 package com.kayak.qa.base;
 
+import com.kayak.qa.util.TestUtil;
+import com.kayak.qa.util.WebEventListener;
+import io.github.bonigarcia.wdm.WebDriverManager;
+import org.openqa.selenium.PageLoadStrategy;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.support.events.EventFiringWebDriver;
+
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
-
-import org.apache.log4j.Logger;
-import org.openqa.selenium.PageLoadStrategy;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.support.events.EventFiringWebDriver;
-
-import com.kayak.qa.util.TestUtil;
-import com.kayak.qa.util.WebEventListener;
-
-import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class TestBase {
 	
@@ -50,17 +46,13 @@ public class TestBase {
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver(options);
 		}
-		else if(browserName.equals("FF")){
-			System.setProperty("webdriver.gecko.driver", "/Users/naveenkhunteta/Documents/SeleniumServer/geckodriver");	
-			driver = new FirefoxDriver(); 
-		}
-		
-		
+
+		//even listener
 		e_driver = new EventFiringWebDriver(driver);
 		// Now create object of EventListerHandler to register it with EventFiringWebDriver
 		eventListener = new WebEventListener();
 		e_driver.register(eventListener);
-		driver = e_driver;
+		 driver = e_driver;
 		
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();

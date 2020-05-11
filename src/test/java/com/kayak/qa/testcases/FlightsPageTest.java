@@ -35,7 +35,6 @@ public class FlightsPageTest extends TestBase{
 	
 	@AfterMethod
 	public void tearDown(){
-		
 		driver.quit();
 	}
 	

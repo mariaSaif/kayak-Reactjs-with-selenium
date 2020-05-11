@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94c48c1c-8d05-46a5-8a84-3423060c5193" name="Default Changelist" comment="" />
+    <list default="true" id="94c48c1c-8d05-46a5-8a84-3423060c5193" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_expressions_8_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_5_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_vintage_5_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_plugin_5_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_datatable_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_docstring_5_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_tag_expressions_2_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jaxen_jaxen_1_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_junit_1_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_2_0_2_beta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_analysis_5_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_5_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_5_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_util_5_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kayak-Reactjs-with-selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kayak-Reactjs-with-selenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kayak/qa/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kayak/qa/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kayak/qa/pages/FlightsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kayak/qa/pages/FlightsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kayak/qa/pages/HotelsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kayak/qa/pages/HotelsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/FlightsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/FlightsPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/HotelsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/HotelsPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features_file/FlightPageTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features_file/FlightsPageTest.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/FlightsPageTestStepsDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/FlightsPageTestStepsDefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Extent.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Extent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,97 +68,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cucumberOptions/TestRunner.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/FlightsPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+                <element signature="e#779#780#0" expanded="true" />
+                <element signature="e#820#821#0" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kayak/qa/pages/FlightsPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-              <folding>
-                <element signature="e#678#679#0" expanded="true" />
-                <element signature="e#715#716#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kayak/qa/pages/HotelsPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="147" column="58" lean-forward="true" selection-start-line="147" selection-start-column="58" selection-end-line="147" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/features_file/FlightPageTest.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/FlightsPageTestStepsDefs.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3028#3029#0" expanded="true" />
-                <element signature="e#3057#3058#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="458">
+              <caret line="226" selection-start-line="226" selection-end-line="226" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-output/Extent.html">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/FlightsPageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/HotelsPageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="65" column="39" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kayak/qa/base/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="42" column="37" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -127,6 +115,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>user opens browser</find>
+      <find>extent</find>
     </findStrings>
     <dirStrings>
       <dir>D:\demo_workspace\kayak-Reactjs-with-selenium\src\test\java\com\kayak\qa\testcases\features_file</dir>
@@ -142,14 +131,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/stepDefinitions/DataPool.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/AfterMethod.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/FlightsPageTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/stepDefinitions/Before.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/features_file/kayak.feature" />
         <option value="$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/stepDefinitions/stepDefinition.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/stepDefinitions/stepDefinition2.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/cucumberOptions/TestRunner.java" />
         <option value="$PROJECT_DIR$/src/test/java/MyStepdefs.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/stepDef.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/stepDefinition.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/stepDefinition2.java" />
@@ -158,10 +145,19 @@
         <option value="$PROJECT_DIR$/src/test/java/cucumberOptions/TestRunner.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/FlightsPageSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/features_file/FT.feature" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kayak/qa/pages/HotelsPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/MyStepdefs.java" />
-        <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/FlightsPageTestStepsDefs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kayak/qa/base/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/features_file/FlightPageTest.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/HotelsPageTestStepsdefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/features_file/HotelsPageTest.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kayak/qa/pages/FlightsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/FlightsPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinitions/FlightsPageTestStepsDefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/HotelsPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kayak/qa/pages/HotelsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/features_file/FlightsPageTest.feature" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -190,7 +186,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="1324" />
     <option name="height" value="735" />
@@ -238,6 +234,71 @@
               <item name="kayak-Reactjs-with-selenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="kayak-Reactjs-with-selenium" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kayak-Reactjs-with-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kayak-Reactjs-with-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kayak-Reactjs-with-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kayak-Reactjs-with-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kayak-Reactjs-with-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kayak-Reactjs-with-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kayak-Reactjs-with-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kayak-Reactjs-with-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kayak-Reactjs-with-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kayak-Reactjs-with-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ExtentReportListener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kayak-Reactjs-with-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kayak-Reactjs-with-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kayak-Reactjs-with-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kayak-Reactjs-with-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -250,19 +311,27 @@
             <path>
               <item name="kayak-Reactjs-with-selenium" type="b2602c69:ProjectViewProjectNode" />
               <item name="kayak-Reactjs-with-selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kayak-Reactjs-with-selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kayak-Reactjs-with-selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testcases" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kayak-Reactjs-with-selenium" type="58d84e3e:PackageViewProjectNode" />
+              <item name="kayak-Reactjs-with-selenium" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,6 +339,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="D:/auto-project/qa-api-test-automation-framework" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -285,6 +355,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\demo_workspace\kayak-Reactjs-with-selenium\src\test\java\features_file" />
       <recent name="D:\demo_workspace\kayak-Reactjs-with-selenium\src\test\java\stepDefinitions" />
       <recent name="D:\demo_workspace\kayak-Reactjs-with-selenium\src\test\java\com\kayak\qa\testcases\features_file" />
       <recent name="D:\demo_workspace\kayak-Reactjs-with-selenium" />
@@ -340,6 +411,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HotelsPageTest.searchHotelsDetailsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="kayak-Reactjs-with-selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kayak.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kayak.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.kayak.qa.testcases.HotelsPageTest" />
+      <option name="METHOD_NAME" value="searchHotelsDetailsTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="kayak-Reactjs-with-selenium" />
       <extension name="coverage">
@@ -360,8 +449,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.TestRunner" />
-        <item itemvalue="Cucumber java.Scenario: Validate kayak functioning properly" />
         <item itemvalue="TestNG.D:/demo_workspace/kayak-Reactjs-with-selenium/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.HotelsPageTest.searchHotelsDetailsTest" />
+        <item itemvalue="Cucumber java.Scenario: Validate kayak functioning properly" />
       </list>
     </recent_temporary>
   </component>
@@ -379,34 +469,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestRunner - 2020.03.06 at 18h 18m 51s.xml">
+    <history-entry file="D__demo_workspace_kayak-Reactjs-with-selenium_src_main_resources_testng_xml - 2020.03.27 at 18h 23m 22s.xml">
+      <configuration name="D:/demo_workspace/kayak-Reactjs-with-selenium/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__demo_workspace_kayak-Reactjs-with-selenium_src_main_resources_testng_xml - 2020.03.27 at 18h 26m 33s.xml">
+      <configuration name="D:/demo_workspace/kayak-Reactjs-with-selenium/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HotelsPageTest_searchHotelsDetailsTest - 2020.03.27 at 18h 30m 31s.xml">
+      <configuration name="HotelsPageTest.searchHotelsDetailsTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__demo_workspace_kayak-Reactjs-with-selenium_src_main_resources_testng_xml - 2020.03.27 at 18h 38m 54s.xml">
+      <configuration name="D:/demo_workspace/kayak-Reactjs-with-selenium/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__demo_workspace_kayak-Reactjs-with-selenium_src_main_resources_testng_xml - 2020.03.27 at 18h 42m 48s.xml">
+      <configuration name="D:/demo_workspace/kayak-Reactjs-with-selenium/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestRunner - 2020.03.27 at 18h 45m 00s.xml">
       <configuration name="TestRunner" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRunner - 2020.03.06 at 18h 22m 38s.xml">
-      <configuration name="TestRunner" configurationId="TestNG" />
+    <history-entry file="D__demo_workspace_kayak-Reactjs-with-selenium_src_main_resources_testng_xml - 2020.03.27 at 18h 55m 16s.xml">
+      <configuration name="D:/demo_workspace/kayak-Reactjs-with-selenium/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRunner - 2020.03.06 at 18h 25m 53s.xml">
-      <configuration name="TestRunner" configurationId="TestNG" />
+    <history-entry file="D__demo_workspace_kayak-Reactjs-with-selenium_src_main_resources_testng_xml - 2020.03.27 at 19h 04m 08s.xml">
+      <configuration name="D:/demo_workspace/kayak-Reactjs-with-selenium/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRunner - 2020.03.08 at 00h 13m 01s.xml">
-      <configuration name="TestRunner" configurationId="TestNG" />
+    <history-entry file="D__demo_workspace_kayak-Reactjs-with-selenium_src_main_resources_testng_xml - 2020.03.27 at 19h 31m 38s.xml">
+      <configuration name="D:/demo_workspace/kayak-Reactjs-with-selenium/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRunner - 2020.03.08 at 00h 13m 58s.xml">
-      <configuration name="TestRunner" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestRunner - 2020.03.08 at 00h 15m 29s.xml">
-      <configuration name="TestRunner" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestRunner - 2020.03.09 at 11h 00m 39s.xml">
-      <configuration name="TestRunner" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestRunner - 2020.03.09 at 11h 02m 15s.xml">
-      <configuration name="TestRunner" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestRunner - 2020.03.09 at 11h 05m 03s.xml">
-      <configuration name="TestRunner" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestRunner - 2020.03.09 at 11h 12m 21s.xml">
+    <history-entry file="TestRunner - 2020.03.27 at 19h 39m 02s.xml">
       <configuration name="TestRunner" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -421,9 +511,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.27231467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.24508321" />
       <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.29500756" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -432,7 +521,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.45008183" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.1816694" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.25204584" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40589198" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -492,9 +581,7 @@
     <entry file="file://$PROJECT_DIR$/cucumber_features_file/kayak.feature" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/AfterMethod.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/stepDefinitions/Before.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.1.5/cucumber-core-1.1.5.jar!/cucumber/api/CucumberOptions.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.1.5/cucumber-core-1.1.5.jar!/cucumber/api/CucumberOptions.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/SuiteRunnerWorker.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="43">
@@ -505,36 +592,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-testng/2.0.0/cucumber-testng-2.0.0.jar!/cucumber/api/testng/AbstractTestNGCucumberTests.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kayak/qa/config/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-testng/2.0.0/cucumber-testng-2.0.0.jar!/cucumber/api/testng/AbstractTestNGCucumberTests.class" />
     <entry file="file://$PROJECT_DIR$/src/test/java/MyStepdefs.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/stepDef.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="152" column="4" selection-start-line="152" selection-start-column="4" selection-end-line="157" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/FlightsPageSteps.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/runtime/formatter/PluginFactory.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -543,116 +603,167 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/stepDefinition2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1108">
-          <caret line="78" lean-forward="true" selection-start-line="74" selection-start-column="2" selection-end-line="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/stepDefinition2.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/features_file/kayak.feature" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/FlightsPageSteps.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/FlightsPageSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/FlightsPageTest2.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/features_file/HotelsPageTest.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/HotelsPageTestStepsdefs.java" />
+    <entry file="file://$PROJECT_DIR$/test-output/Extent.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/HotelsPageTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kayak/qa/util/TestUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="65" column="39" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="39" />
+        <state relative-caret-position="204">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kayak/qa/util/WebEventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/ExtentReportListener/ExtentReporterNG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kayak/qa/base/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="42" column="37" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="37" />
+        <state relative-caret-position="510">
+          <caret line="43" column="32" selection-start-line="38" selection-start-column="4" selection-end-line="47" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-output/Extent.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/FlightsPageTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="45" column="84" selection-start-line="45" selection-start-column="84" selection-end-line="45" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kayak/qa/pages/FlightsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        <state relative-caret-position="306">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
           <folding>
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kayak/qa/pages/HotelsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="147" column="58" lean-forward="true" selection-start-line="147" selection-start-column="58" selection-end-line="147" selection-end-column="58" />
+        <state relative-caret-position="1904">
+          <caret line="132" column="17" selection-start-line="132" selection-start-column="11" selection-end-line="132" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1402#1403#0" expanded="true" />
+            <element signature="e#1456#1457#0" expanded="true" />
+            <element signature="e#1518#1519#0" expanded="true" />
+            <element signature="e#1571#1572#0" expanded="true" />
+            <element signature="e#1619#1620#0" expanded="true" />
+            <element signature="e#1672#1673#0" expanded="true" />
+            <element signature="e#1981#1982#0" expanded="true" />
+            <element signature="e#2021#2022#0" expanded="true" />
+            <element signature="e#3844#3845#0" expanded="true" />
+            <element signature="e#3879#3880#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/features_file/FlightPageTest.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/HotelsPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/FlightsPageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="1224">
+          <caret line="81" column="27" selection-start-line="81" selection-start-column="27" selection-end-line="81" selection-end-column="27" />
+          <folding>
+            <element signature="e#2265#2266#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cucumberOptions/TestRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="51">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/ExtentReportListener/ExtentReporterNG.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/features_file/FlightsPageTest.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kayak/qa/config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinitions/FlightsPageTestStepsDefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        <state relative-caret-position="424">
+          <caret line="52" column="38" lean-forward="true" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3028#3029#0" expanded="true" />
-            <element signature="e#3057#3058#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#3130#3131#0" expanded="true" />
+            <element signature="e#3159#3160#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kayak/qa/testcases/FlightsPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="226" selection-start-line="226" selection-end-line="226" />
         </state>
       </provider>
     </entry>

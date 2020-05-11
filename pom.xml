@@ -35,15 +35,6 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 			<version>6.11</version>
 			<scope>compile</scope>
 		</dependency>
-
-
-		<dependency>
-			<groupId>org.apache.poi</groupId>
-			<artifactId>poi</artifactId>
-			<version>3.16-beta2</version>
-		</dependency>
-
-
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi-ooxml</artifactId>
@@ -100,13 +91,6 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 			<groupId>org.apache.poi</groupId>
 			<artifactId>openxml4j</artifactId>
 			<version>1.0-beta</version>
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/com.relevantcodes/extentreports -->
-		<dependency>
-			<groupId>com.relevantcodes</groupId>
-			<artifactId>extentreports</artifactId>
-			<version>2.41.2</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
@@ -187,13 +171,6 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 			<version>1.18.10</version>
 			<scope>provided</scope>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/info.cukes/cucumber-core -->
-
- <dependency>
- <groupId>org.mockito</groupId>
- <artifactId>mockito-all</artifactId>
- <version>2.0.2-beta</version>
- </dependency>
  
  <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
 <dependency>
@@ -201,6 +178,15 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
     <artifactId>cucumber-testng</artifactId>
     <version>2.0.0</version>
 </dependency>
+		<dependency>
+
+		<groupId>com.relevantcodes</groupId>
+
+		<artifactId>extentreports</artifactId>
+
+		<version>2.41.2</version>
+
+	</dependency>
 		<dependency>
 			<groupId>com.aventstack</groupId>
 			<artifactId>extentreports</artifactId>
@@ -213,14 +199,28 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 			<artifactId>cucumber-java</artifactId>
 			<version>5.4.1</version>
 		</dependency>
+		
 		<dependency>
 			<groupId>com.vimalselvam</groupId>
 			<artifactId>cucumber-extentsreport</artifactId>
 			<version>3.0.2</version>
 		</dependency>
-
-
+		<dependency>
+			<groupId>com.epam.reportportal</groupId>
+			<artifactId>agent-java-testng</artifactId>
+			<version>4.2.1</version>
+		</dependency>
 
 	</dependencies>
+	<repositories>
+		<repository>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+			<id>bintray-epam-reportportal</id>
+			<name>bintray</name>
+			<url>http://dl.bintray.com/epam/reportportal</url>
+		</repository>
+	</repositories>
 	
 </project>

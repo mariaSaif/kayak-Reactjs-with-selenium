@@ -22,6 +22,7 @@ public class HotelsPageTest extends TestBase{
 		hotelsPage = new HotelsPage();
 		flightsPage = new FlightsPage();
 	}
+
 	@Test(priority=1)
 	public void verifyHostelsPageLabel1(){
 		hotelsPage=	flightsPage.clickOnHotelsLink();
@@ -76,8 +77,6 @@ public class HotelsPageTest extends TestBase{
     	hotelsPage.clickOverSearchbtn();	
   	 Thread.sleep(2000);
 	}
-		
-	
 	
 	@AfterMethod
 	public void tearDown(){
