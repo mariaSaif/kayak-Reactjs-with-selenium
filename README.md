@@ -1,20 +1,17 @@
-# Page Object model Test automation framework using Selenium with Java, TestNG and Maven-
-This is a sample project to demonstrate what is page object model framework and how it can used in selenium to automate any application.
-TestNG is used as test framework.
-
+# Reactjs application automation using Selenium with Java,Cucumber
+This is a sample project to demonstrate how we can automate Reactjs applications with selenium + java + cucumber Layer
 Dependency
 Java
 Maven
 
 ###libraries used
 Selenium
-TestNG
-log4j
+Cucumber
 Extent Reports
 
 ### Steps to clone execute the tests
 ```
-git clone https://github.com/naveenanimation20/PageObjectModel
-cd PageObjectModel
+git clone https://github.com/mariaSaif/kayak-Reactjs-with-selenium.git
+cd kayak-Reactjs-with-selenium
 mvn clean test
 ```
