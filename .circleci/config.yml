@@ -5,17 +5,26 @@ jobs:
       #- image: circleci/python:latest
       - image: circleci/openjdk:8u131-jdk
       - image: selenium/standalone-chrome:3.1.0
+      - image: circleci/node:jessie-browser
  
    #Latest image of python environment
     steps:
       - checkout # Checks out the source code from rehmanuet's repo default directory
       - run: java -version  # Sample Command for Demonstration
       - run: ls
+      steps:
+      - checkout
+      - run: mkdir test-reports
       - run:
           name: Download Selenium and chromedriver
           command: |
             curl -O https://selenium-release.storage.googleapis.com/3.141/selenium-server-standalone-3.141.59.jar
             curl -O https://chromedriver.storage.googleapis.com/83.0.4103.39/chromedriver_win32.zip
+            
+      - run:
+          name: Start Selenium
+          command: java -jar selenium-server-standalone-3.141.jar -log test-reports/selenium.log
+          background: true
 
       - run: mvn dependency:go-offline
     #  - run: javac test.py 

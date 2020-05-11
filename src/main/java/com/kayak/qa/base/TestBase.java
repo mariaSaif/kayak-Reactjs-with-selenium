@@ -21,7 +21,7 @@ public class TestBase {
 	public static Properties prop;
 	public  static EventFiringWebDriver e_driver;
 	public static WebEventListener eventListener;
-	
+
 	public TestBase(){
 		try {
 			prop = new Properties();
@@ -42,7 +42,7 @@ public class TestBase {
 		if(browserName.equals("chrome")){
 			ChromeOptions options = new ChromeOptions();
 			 options.setPageLoadStrategy(PageLoadStrategy.NONE);
-			options.addArguments("--disable-gpu"); //https://stackoverflow.com/questions/51959986/how-to-solve-selenium-chromedriver-timed-out-receiving-message-from-renderer-exc
+			options.addArguments("headless"); //https://stackoverflow.com/questions/51959986/how-to-solve-selenium-chromedriver-timed-out-receiving-message-from-renderer-exc
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver(options);
 		}
