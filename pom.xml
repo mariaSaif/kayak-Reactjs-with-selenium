@@ -215,7 +215,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 				<configuration>
 					<suiteXmlFiles>
 						<!-- pass testng.xml files as argument from command line -->
-						<suiteXmlFile>D:\demo_workspace\kayak-Reactjs-with-selenium\src\main\resources\testng.xml</suiteXmlFile>
+						<suiteXmlFile>src/main/resources/testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
