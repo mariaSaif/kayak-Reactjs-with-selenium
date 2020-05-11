@@ -10,6 +10,7 @@ jobs:
       - run: java -version  # Sample Command for Demonstration
       - run: ls
     #  - run: javac test.py 
-      - run: javac FlightsPageTest.java
-      - run: java test
+      - run: mvn test install
+      - run: mvn dependency:go-offline
       - run: echo "Build Successfully"
+      
