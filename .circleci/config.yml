@@ -4,6 +4,7 @@ jobs:
     docker:
       #- image: circleci/python:latest
       - image: circleci/openjdk:8u131-jdk
+      - image: selenium/standalone-chrome:3.1.0
  
    #Latest image of python environment
     steps:
