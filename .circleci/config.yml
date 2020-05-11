@@ -11,17 +11,12 @@ jobs:
       - run: java -version  # Sample Command for Demonstration
       - run: ls
       - run:
-          name: Download Selenium
+          name: Download Selenium and chromedriver
           command: |
             curl -O https://selenium-release.storage.googleapis.com/3.141/selenium-server-standalone-3.141.59.jar
             curl -O https://chromedriver.storage.googleapis.com/83.0.4103.39/chromedriver_linux64.zip
 
       - run: mvn dependency:go-offline
-
-      - save_cache:
-          paths:
-            - ~/.m2
-          key: v1-dependencies-{{ checksum "pom.xml" }}
     #  - run: javac test.py 
       - run: mvn clean test
      
