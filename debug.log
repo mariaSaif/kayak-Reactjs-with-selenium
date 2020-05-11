@@ -1568,3 +1568,5 @@
 [0511/145457.319:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdcb8bf978 of 48 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
 [0511/145457.319:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdcb8c53c0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
 [0511/145457.327:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0511/151151.047:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0511/151151.048:ERROR:exception_snapshot_win.cc(98)] thread ID 14492 not found in process
