@@ -4,6 +4,7 @@ jobs:
     docker:
       #- image: circleci/python:latest
       - image: circleci/openjdk:8u131-jdk
+ 
    #Latest image of python environment
     steps:
       - checkout # Checks out the source code from rehmanuet's repo default directory
@@ -14,7 +15,7 @@ jobs:
           command: |
             curl -O https://selenium-release.storage.googleapis.com/3.141/selenium-server-standalone-3.141.59.jar
 
-      - run: mvn dependency
+      - run: mvn dependency:go-offline
 
       - save_cache:
           paths:
