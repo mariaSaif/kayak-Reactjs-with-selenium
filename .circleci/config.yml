@@ -4,8 +4,6 @@ jobs:
     docker:
       #- image: circleci/python:latest
       - image: circleci/openjdk:8u131-jdk
-      - image: selenium/standalone-chrome
-      - run :docker-compose
    #Latest image of python environment
     steps:
       - checkout # Checks out the source code from rehmanuet's repo default directory
